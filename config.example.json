@@ -1,0 +1,32 @@
+{
+  "_comment": "Copy to config.json and edit. CLI flags always override these values. Paths are relative to project root.",
+
+  "source": "./data/source",
+  "translated": "./data/translated",
+  "logs": "./runtime/logs",
+  "profiles": "./runtime/browser-profiles",
+
+  "proxy_file": "./proxy.txt",
+  "require_proxy": false,
+
+  "sl": "ka",
+  "tl": "ru",
+
+  "workers": 2,
+  "quiet": true,
+  "headless": false,
+
+  "delay": 3000,
+  "delay_jitter": 0,
+  "timeout": 120000,
+  "download_settle": 3500,
+  "reload_every": 0,
+
+  "limit": 0,
+  "only": "",
+
+  "stale_lock": 900,
+  "fail_cooldown": 180,
+  "fail_shots": true,
+  "fail_shot_quality": 35
+}

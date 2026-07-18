@@ -1,0 +1,13 @@
+# One entry per line. Order = worker assignment (round-robin if more workers).
+# Comments after # are OK.
+#
+# Formats:
+#   host:port
+#   http://host:port
+#   https://user:pass@host:port
+#   direct          ← current IP, no proxy  (also: none, local, -)
+#
+# Example for 3 workers: p1, p2, your IP:
+# 203.0.113.10:3188   # Main
+# 198.51.100.20:8080  # backup
+# direct              # w3 = current IP
