@@ -2,7 +2,10 @@
 
 Batch-translate scanned images and documents through the **Google Translate → Images** web interface, fully automated with Playwright.
 
-> Detailed guides: **[README.en.md](./README.en.md)** (English)
+> [!TIP]
+> **Detailed guides**: 
+> * Read the comprehensive guide in English: **[README.en.md](./README.en.md)**
+> * Or use the interactive documentation (supports automatic translation to any language): [DeepWiki](https://deepwiki.com/Tiarait/playwright-image-translator)
 
 ## Why this project exists
 
