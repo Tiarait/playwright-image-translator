@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Other
+data/
+runtime/
+.DS_Store
+*.partial
+config.json
+proxy.txt
